@@ -1,10 +1,5 @@
 #pragma once
-#include<iostream>
-using namespace std;
+// Makes sure the file is only included once
 
-int add()
-{
-	cout << "This is the add.h class" << endl;
-	return 0;
-};
+int add1(int n);
 
